@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/kshitij-thorve-0181b6341">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://bsky.app/profile/Kshitij">
-    <img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" />
-  </a>
   <a href="mailto:kshitijthorve19@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -21,7 +18,6 @@ I'm a second-year B.Sc. Data Science student, driven by curiosity about how data
 
 Right now I'm deep in **Machine Learning, Computer Vision, and NLP**, while shipping end-to-end analytics projects that combine Python, SQL, and BI tools to tell a complete data story — from raw records to a decision-ready dashboard.
 
-- 🔭 Currently building **KrishiMitra** — an ML-powered crop recommendation system with an ensemble model and a Flask REST API
 - 📊 Recently shipped a **Credit Card Financial Analysis Dashboard** and a **Marketing Campaign Performance Analysis** on 200K+ records
 - 🌱 Learning: Advanced ML pipelines, Computer Vision, and applied statistics
 - 🎯 Goal: Become a Data Scientist contributing to AI research that solves real-world problems
