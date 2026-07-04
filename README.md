@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kshitij👋 </h1>
+<h1 align="center">Hi, I'm Kshitij Thorve 👋</h1>
 <h3 align="center">Data Science Student · Turning Data Into Decisions</h3>
 
 <p align="center">
@@ -13,22 +13,25 @@
 ---
 
 ### 🧭 About Me
-🚀 Who Am I?
 
-I’m Kshitij Thorve, a Data Science student with a passion for turning data into decisions.
+I'm a second-year **B.Sc. Data Science** student with a strong interest in uncovering patterns in data and building intelligent systems that turn raw numbers into real decisions. I like problems that sit at the intersection of statistics, code, and business impact — and I learn best by building things end-to-end rather than just reading about them.
 
-I enjoy discovering hidden patterns, solving analytical problems, and building intelligent systems that make predictions from data. My strongest motivation comes from curiosity—I love understanding how things work and continuously pushing myself to learn something new.
+Currently deepening my skills in **Machine Learning, Computer Vision, and NLP**, while shipping practical projects that mirror real analyst/data-scientist workflows.
 
-I’m currently expanding my knowledge in Machine Learning, Computer Vision, Natural Language Processing, and AI while building practical projects that bridge theory with real-world applications.
+---
 
-Outside academics, I believe in disciplined learning, analytical thinking, and continuous improvement.
+### 🏆 What Sets Me Apart
 
-💡 Future Goal:
-Become a Data Scientist and contribute to AI research that solves meaningful real-world problems.
+I don't stop at building a model that works — I focus on the full pipeline: cleaning messy data, designing the analysis, and presenting it in a way that's actually usable for decision-making. Every project I build is meant to answer a real question, not just demonstrate a technique.
 
-- 🎯 **Goal:** Land a Data Science contribute to AI research that solves meaningful real-world problems.
-- 🧩 **Approach:** Disciplined, project-first learning — theory backed by something I actually built and can explain
-- 🌱 **Currently exploring:** Ensemble ML models, dashboarding with Power BI, and end-to-end data pipelines
+---
+
+### 🎓 Degrees & Achievements
+
+| Milestone | Institute | Result |
+|---|---|---|
+| 🎓 B.Sc. Data Science (2nd Year) | Pillai HoC College of Arts, Science & Commerce, Mumbai | CGPA: 8.89/10 |
+| 📜 BCG X Data Science Job Simulation | Forage | Completed, June 2026 |
 
 ---
 
@@ -51,25 +54,40 @@ A production-oriented web app that recommends optimal crops using an ensemble ML
 ### 💻 Tech Stack
 
 **Languages & Querying**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+`Python` `SQL (MySQL, Oracle)` `R` `HTML/CSS` `JavaScript`
 
 **Data & ML**
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+
+`NumPy` `Pandas` `scikit-learn` `TensorFlow` `MLflow`
 
 **Visualization & BI**
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+`Power BI` `Matplotlib` `Plotly`
+
+**Build & Tools**
+
+`Flask` `Git` `Jupyter`
 
 ---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Kshitij-Thorve-&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kshitij-Thorve-&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kshitij-Thorve-&theme=dark&hide_border=false" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+Open to Data Science and Analytics internship opportunities. Feel free to reach out via [LinkedIn](https://linkedin.com/in/kshitij-thorve-0181b6341) or [email](mailto:kshitijthorve19@gmail.com).
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kshitij-Thorve-&icon=0&color=0" />
+</p>
