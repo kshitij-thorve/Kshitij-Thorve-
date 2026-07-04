@@ -28,7 +28,7 @@ Outside academics, I believe in disciplined learning, analytical thinking, and c
 💡 Future Goal:
 Become a Data Scientist and contribute to AI research that solves meaningful real-world problems.
 
-- 🎯 **Goal:** Land a Data Science / Analytics internship and grow into a role building AI systems that solve meaningful, real-world problems
+- 🎯 **Goal:** Land a Data Science contribute to AI research that solves meaningful real-world problems.
 - 🧩 **Approach:** Disciplined, project-first learning — theory backed by something I actually built and can explain
 - 🌱 **Currently exploring:** Ensemble ML models, dashboarding with Power BI, and end-to-end data pipelines
 
