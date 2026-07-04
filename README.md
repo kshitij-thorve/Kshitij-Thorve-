@@ -20,7 +20,7 @@
 
 I'm Kshitij Thorve, a Data Science student with a passion for turning data into decisions.<br>I enjoy discovering hidden patterns, solving analytical problems, and building intelligent systems that make predictions from data. My strongest motivation comes from curiosity—I love understanding how things work and continuously pushing myself to learn something new..<br><br>I'm currently expanding my knowledge in Machine Learning, Computer Vision, Natural Language Processing, and AI while building practical projects that bridge theory with real-world applications.<br><br>Outside academics, I believe in disciplined learning, analytical thinking, and continuous improvement.<br><br>💡 Future Goal:<br>Become a Data Scientist and contribute to AI research that solves meaningful real-world problems.
 
-- 📊 Recently shipped a **Credit Card Financial Analysis Dashboard** and a **Marketing Campaign Performance Analysis** on 200K+ records
+- 📊 Recently shipped a ** KriShimitra Crop Recommendation System***, **Credit Card Financial Analysis Dashboard** and  a **Marketing Campaign Performance Analysis**
 - 🌱 Learning: Advanced ML pipelines, Computer Vision, and applied statistics
 - 🎯 Goal: Become a Data Scientist contributing to AI research that solves real-world problems
 ### 🛠️ Featured Projects
