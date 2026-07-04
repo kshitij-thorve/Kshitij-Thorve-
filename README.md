@@ -11,7 +11,6 @@
   <a href="mailto:kshitijthorve19@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Kshitij-Thorve-&style=for-the-badge&color=58A6FF&label=Profile+Views" />
 </p>
 
 ---
