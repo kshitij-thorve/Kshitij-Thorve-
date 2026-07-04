@@ -41,7 +41,18 @@ An ML-based crop recommendation system built from the ground up — evolved from
 
 ### 💻 Tech Stack
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+with+the+right+tool+for+the+job...;Languages+%C2%B7+ML+%C2%B7+Visualization" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=6,11,20&section=header" width="100%" />
+
 **Languages & Querying**
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=3670A0&center=false&vCenter=true&width=400&lines=Python+%C2%B7+R+%C2%B7+JavaScript+%C2%B7+SQL" />
+</p>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -49,7 +60,14 @@ An ML-based crop recommendation system built from the ground up — evolved from
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%" />
+
 **Data & ML**
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=F7931E&center=false&vCenter=true&width=400&lines=Modeling+%C2%B7+Training+%C2%B7+Experimenting" />
+</p>
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -66,6 +84,8 @@ An ML-based crop recommendation system built from the ground up — evolved from
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-71A5C2?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+
 📬 Contact Me
 
 <p align="center">
