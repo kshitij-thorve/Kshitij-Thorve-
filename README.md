@@ -14,16 +14,15 @@
 
 ### 🚀 About Me
 
-I'm a second-year B.Sc. Data Science student, driven by curiosity about how data can be turned into decisions. I like taking a dataset from messy to meaningful — cleaning it, modeling it, and packaging the result into something a business can actually act on.
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=false&vCenter=true&width=550&lines=Curious+by+default...;Turning+raw+data+into+real+decisions;Cleaning+%C2%B7+Modeling+%C2%B7+Deploying" />
+</p>
 
-Right now I'm deep in **Machine Learning, Computer Vision, and NLP**, while shipping end-to-end analytics projects that combine Python, SQL, and BI tools to tell a complete data story — from raw records to a decision-ready dashboard.
+I'm Kshitij Thorve, a Data Science student with a passion for turning data into decisions.<br>I enjoy discovering hidden patterns, solving analytical problems, and building intelligent systems that make predictions from data. My strongest motivation comes from curiosity—I love understanding how things work and continuously pushing myself to learn something new..<br><br>I'm currently expanding my knowledge in Machine Learning, Computer Vision, Natural Language Processing, and AI while building practical projects that bridge theory with real-world applications.<br><br>Outside academics, I believe in disciplined learning, analytical thinking, and continuous improvement.<br><br>💡 Future Goal:<br>Become a Data Scientist and contribute to AI research that solves meaningful real-world problems.
 
 - 📊 Recently shipped a **Credit Card Financial Analysis Dashboard** and a **Marketing Campaign Performance Analysis** on 200K+ records
 - 🌱 Learning: Advanced ML pipelines, Computer Vision, and applied statistics
 - 🎯 Goal: Become a Data Scientist contributing to AI research that solves real-world problems
-
----
-
 ### 🛠️ Featured Projects
 
 **[Credit Card Financial Analysis Dashboard](#)**
