@@ -64,19 +64,15 @@ An ML-based crop recommendation system built from the ground up — evolved from
 
 ---
 
-### 📊 GitHub Stats
+📬 Contact Me
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Kshitij-Thorve-&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kshitij-Thorve-&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <a href="mailto:kshitijthorve19@gmail.com">
+    <img src="https://img.shields.io/badge/kshitijthorve19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kshitij-thorve-0181b6341">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kshitij-Thorve-&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kshitij-Thorve-&icon=0&color=0" />
-</p>
-
+<p align="center">Open to Data Science internship opportunities — feel free to reach out!</p>
 <p align="center"><i>Proudly built by Kshitij Thorve</i></p>
