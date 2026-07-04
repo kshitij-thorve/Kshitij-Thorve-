@@ -1,6 +1,6 @@
 # Kshitij-Thorve-
 
-<h1 align="center">Hi, I'm Kshitij Thorve 👋</h1>
+<h1 align="center">Hi, I'm Kshitij </h1>
 <h3 align="center">Data Science Student · Turning Data Into Decisions</h3>
 
 <p align="center">
