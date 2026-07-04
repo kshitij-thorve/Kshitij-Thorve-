@@ -74,5 +74,4 @@ An ML-based crop recommendation system built from the ground up — evolved from
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-<p align="center">Open to Data Science internship opportunities — feel free to reach out!</p>
-<p align="center"><i>Proudly built by Kshitij Thorve</i></p>
+
