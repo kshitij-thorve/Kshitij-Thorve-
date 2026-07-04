@@ -94,6 +94,8 @@ An ML-based crop recommendation system built from the ground up — evolved from
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=header&text=Let's%20Connect&fontSize=32&fontColor=ffffff" width="100%" />
 
 <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=D14836&center=true&vCenter=true&width=500&lines=Always+up+for+a+data+conversation...; />
+</p>
 <p align="center">
   <a href="mailto:kshitijthorve19@gmail.com">
     <img src="https://img.shields.io/badge/kshitijthorve19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
