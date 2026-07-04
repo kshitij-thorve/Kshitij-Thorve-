@@ -58,10 +58,15 @@ An ML-based crop recommendation system built from the ground up — evolved from
 ![MLflow](https://img.shields.io/badge/mlflow-0194E2?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Visualization & BI**
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F2C811&center=false&vCenter=true&width=435&lines=Turning+numbers+into+visual+stories...;Charts+%7C+Dashboards+%7C+Insights" />
+</p>
+
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-71A5C2?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
 ---
 
 📬 Contact Me
