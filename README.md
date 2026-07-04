@@ -110,4 +110,3 @@ An ML-based crop recommendation system built from the ground up — evolved from
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%" />
 
-<p align="center"><i>Proudly built by Kshitij Thorve</i></p>
