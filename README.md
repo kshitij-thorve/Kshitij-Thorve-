@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Kshitij Thorve 👋</h1>
-<h3 align="center">Data Science Student · Turning Data Into Decisions</h3>
+<h3 align="center">Data Science Student · Turning Raw Data into Real Decisions</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kshitij-thorve-0181b6341">
+  <a href="https://www.linkedin.com/in/kshitij-thorve-0181b6341">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://bsky.app/profile/Kshitij">
+    <img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" />
   </a>
   <a href="mailto:kshitijthorve19@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -12,82 +15,72 @@
 
 ---
 
-### 🧭 About Me
+### 🚀 About Me
 
-I'm a second-year **B.Sc. Data Science** student with a strong interest in uncovering patterns in data and building intelligent systems that turn raw numbers into real decisions. I like problems that sit at the intersection of statistics, code, and business impact — and I learn best by building things end-to-end rather than just reading about them.
+I'm a second-year B.Sc. Data Science student, driven by curiosity about how data can be turned into decisions. I like taking a dataset from messy to meaningful — cleaning it, modeling it, and packaging the result into something a business can actually act on.
 
-Currently deepening my skills in **Machine Learning, Computer Vision, and NLP**, while shipping practical projects that mirror real analyst/data-scientist workflows.
+Right now I'm deep in **Machine Learning, Computer Vision, and NLP**, while shipping end-to-end analytics projects that combine Python, SQL, and BI tools to tell a complete data story — from raw records to a decision-ready dashboard.
 
----
-
-### 🏆 What Sets Me Apart
-
-I don't stop at building a model that works — I focus on the full pipeline: cleaning messy data, designing the analysis, and presenting it in a way that's actually usable for decision-making. Every project I build is meant to answer a real question, not just demonstrate a technique.
-
----
-
-### 🎓 Degrees & Achievements
-
-| Milestone | Institute | Result |
-|---|---|---|
-| 🎓 B.Sc. Data Science (2nd Year) | Pillai HoC College of Arts, Science & Commerce, Mumbai | CGPA: 8.89/10 |
-| 📜 BCG X Data Science Job Simulation | Forage | Completed, June 2026 |
+- 🔭 Currently building **KrishiMitra** — an ML-powered crop recommendation system with an ensemble model and a Flask REST API
+- 📊 Recently shipped a **Credit Card Financial Analysis Dashboard** and a **Marketing Campaign Performance Analysis** on 200K+ records
+- 🌱 Learning: Advanced ML pipelines, Computer Vision, and applied statistics
+- 🎯 Goal: Become a Data Scientist contributing to AI research that solves real-world problems
 
 ---
 
 ### 🛠️ Featured Projects
 
-**📊 Credit Card Financial Analysis Dashboard**
-`Python` `SQL (PostgreSQL)` `Power BI` `DAX`
-End-to-end analytics pipeline — cleaned and structured a dataset scaled from 185 to 2,685+ records, built SQL pipelines for extraction and transformation, and designed an interactive Power BI dashboard with KPIs and DAX measures to surface customer spending and transaction trends.
+**[Credit Card Financial Analysis Dashboard](#)**
+End-to-end analytics pipeline built on a 2,685-row multi-year dataset. Cleaned and validated raw transaction data in Python, engineered a SQL layer for reporting, and built an interactive Power BI dashboard with custom DAX measures to surface customer spending patterns and business KPIs.
+`Python` `PostgreSQL` `SQL` `Power BI` `DAX`
 
-**📈 Marketing Campaign Performance Analysis**
-`Python` `Pandas` `Data Visualization`
-Analyzed 200K+ campaign records across 5 channels, 5 companies, and 6 audience segments. Engineered KPIs (CPC, CPA, Engagement Rate, Conversions) and built multi-dimensional and 3D visualizations to identify cross-channel ROI drivers.
+**[Marketing Campaign Performance Analysis](#)**
+Analyzed 200K+ campaign records across 5 channels, 5 companies, and 6 audience segments to identify ROI drivers. Engineered KPIs (CPC, CPA, Engagement Rate, Conversions) from raw data and built multi-dimensional and 3D visualizations to compare cross-channel and segment-level performance.
+`Python` `Pandas` `Matplotlib` `Plotly`
 
-**🌾 KrishiMitra — ML-Based Crop Recommendation System**
-`Flask` `scikit-learn` `Ensemble ML` `REST API`
-A production-oriented web app that recommends optimal crops using an ensemble ML model, enriched with live market price data (Yahoo Finance) and crop imagery (Wikipedia). Built with a Flask backend and a custom glassmorphism UI, iterated through multiple design and architecture revisions.
+**[KrishiMitra](#)**
+An ML-based crop recommendation system built from the ground up — evolved from a single Random Forest model into an ensemble system served through a Flask REST API, with live market price data and a polished frontend.
+`Python` `scikit-learn` `Flask` `Ensemble ML`
 
 ---
 
 ### 💻 Tech Stack
 
 **Languages & Querying**
-
-`Python` `SQL (MySQL, Oracle)` `R` `HTML/CSS` `JavaScript`
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Data & ML**
-
-`NumPy` `Pandas` `scikit-learn` `TensorFlow` `MLflow`
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-0194E2?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Visualization & BI**
-
-`Power BI` `Matplotlib` `Plotly`
-
-**Build & Tools**
-
-`Flask` `Git` `Jupyter`
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Kshitij-Thorve-&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kshitij-Thorve-&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Kshitij-Thorve-&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kshitij-Thorve-&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Kshitij-Thorve-&theme=dark&hide_border=false" />
 </p>
 
----
-
-### 🤝 Let's Connect
-
-Open to Data Science and Analytics internship opportunities. Feel free to reach out via [LinkedIn](https://linkedin.com/in/kshitij-thorve-0181b6341) or [email](mailto:kshitijthorve19@gmail.com).
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kshitij-Thorve-&icon=0&color=0" />
 </p>
+
+<p align="center"><i>Proudly built by Kshitij Thorve</i></p>
