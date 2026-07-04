@@ -85,8 +85,17 @@ An ML-based crop recommendation system built from the ground up — evolved from
 ![Seaborn](https://img.shields.io/badge/Seaborn-71A5C2?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%" />
 
-📬 Contact Me
+---
+
+### 📬 Contact Me
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=header&text=Let's%20Connect&fontSize=32&fontColor=ffffff" width="100%" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=D14836&center=true&vCenter=true&width=500&lines=Always+up+for+a+data+conversation...;Open+to+internships+and+collaborations!" />
+</p>
 
 <p align="center">
   <a href="mailto:kshitijthorve19@gmail.com">
@@ -97,3 +106,8 @@ An ML-based crop recommendation system built from the ground up — evolved from
   </a>
 </p>
 
+<p align="center">Open to Data Science internship opportunities — feel free to reach out!</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%" />
+
+<p align="center"><i>Proudly built by Kshitij Thorve</i></p>
