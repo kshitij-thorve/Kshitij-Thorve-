@@ -15,10 +15,18 @@
 ---
 
 ### 🧭 About Me
+🚀 Who Am I?
 
-I'm a second-year **B.Sc. Data Science** student (CGPA: 8.89) with a strong interest in uncovering patterns in data and building intelligent systems that turn raw numbers into real decisions. I like problems that sit at the intersection of statistics, code, and business impact — and I learn best by building things end-to-end rather than just reading about them.
+I’m Kshitij Thorve, a Data Science student with a passion for turning data into decisions.
 
-Currently deepening my skills in **Machine Learning, Computer Vision, and NLP**, while shipping practical projects that mirror real analyst/data-scientist workflows.
+I enjoy discovering hidden patterns, solving analytical problems, and building intelligent systems that make predictions from data. My strongest motivation comes from curiosity—I love understanding how things work and continuously pushing myself to learn something new.
+
+I’m currently expanding my knowledge in Machine Learning, Computer Vision, Natural Language Processing, and AI while building practical projects that bridge theory with real-world applications.
+
+Outside academics, I believe in disciplined learning, analytical thinking, and continuous improvement.
+
+💡 Future Goal:
+Become a Data Scientist and contribute to AI research that solves meaningful real-world problems.
 
 - 🎯 **Goal:** Land a Data Science / Analytics internship and grow into a role building AI systems that solve meaningful, real-world problems
 - 🧩 **Approach:** Disciplined, project-first learning — theory backed by something I actually built and can explain
