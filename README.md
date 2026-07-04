@@ -66,19 +66,4 @@ A production-oriented web app that recommends optimal crops using an ensemble ML
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Kshitij-Thorve-&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kshitij-Thorve-&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kshitij-Thorve-&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kshitij-Thorve-&icon=0&color=0" />
-</p>
-
-<p align="center"><i>Built with curiosity, one dataset at a time. 🚀</i></p>
